@@ -1,6 +1,7 @@
 <html>
 <head>
-    <style>
+    
+<style>
 @media screen {
   a {
     color: blue !important;
@@ -10,9 +11,8 @@
     font-family: 'Arial2';
   }
 }
-</style>
-</head>
+</style></head>
 <body>
-    <p style="color: blue;">hi</p>
+<p style="color: blue;">hi</p>
 </body>
 </html>
